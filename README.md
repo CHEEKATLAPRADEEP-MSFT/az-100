@@ -34,7 +34,7 @@
 
 ### 3. Manage resource groups
 
-* May include but not limited to: Allocate resource policies; configure resource locks; configure resource policies; implement and set tagging on resource groups; move resources across resource groups; remove resource groups
+* May include but not limited to: Use Azure policies for resource groups; configure resource locks; configure resource policies; implement and set tagging on resource groups; move resources across resource groups; remove resource groups
 
   1. **Lock resources to prevent unexpected changes** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources
   1. **Create and manage policies to enforce compliance** https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
