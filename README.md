@@ -14,6 +14,7 @@
   1. **Azure subscription and service limits, quotas, and constraints** https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
   1. **What is Azure Policy?** https://docs.microsoft.com/en-us/azure/governance/policy/overview
   1. **Create and manage policies to enforce compliance** https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+  1. **Create resource groups and resources at the subscription level** https://docs.microsoft.com/en-us/azure/azure-resource-manager/deploy-to-subscription
   
 
 ### 2. Analyze resource utilization and consumption
