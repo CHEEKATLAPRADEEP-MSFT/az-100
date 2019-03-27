@@ -7,9 +7,10 @@
 * May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure Azure subscription policies at Azure subscription level
   
   1. **Add or change Azure subscription administrators** https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
-  1. **How to optimize your cloud investment with Azure Cost Management** https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices
-  1. **Use tags to organize your Azure resources** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags?toc=/azure/billing/TOC.json
+  1. **Organize and tag your resources** https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices#organize-and-tag-your-resources
+  1. **Tags and billing** https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags#tags-and-billing
   1. **Azure subscription and service limits, quotas, and constraints** https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+  1. **Create a budget in the Azure portal** https://docs.microsoft.com/en-us/azure/cost-management/tutorial-acm-create-budgets#create-a-budget-in-the-azure-portal
   1. **What is Azure Policy?** https://docs.microsoft.com/en-us/azure/governance/policy/overview
   1. **Create and manage policies to enforce compliance** https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
   1. **Create resource groups and resources at the subscription level** https://docs.microsoft.com/en-us/azure/azure-resource-manager/deploy-to-subscription
